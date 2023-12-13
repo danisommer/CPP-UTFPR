@@ -30,3 +30,41 @@
 *.exe
 *.out
 *.app
+*.json
+*.ipch
+*.vsidx
+*.tlog
+*.pdb
+*.log
+*.txt
+*.recipe
+*.user
+*.iml
+*.ninja
+*.bin
+*.yaml
+*.cmake
+*.xml
+Prova 1/.vs/simulado 1/v17/.suo
+Project1/.vs/Project1/v17/.suo
+*.db
+*.sln
+*.vcxproj
+*.filters
+Prova 1/.idea/.name
+Prova 1/cmake-build-debug/.ninja_deps
+Prova 1/cmake-build-debug/.ninja_log
+*.ilk
+prova7/.vs/prova7/v17/.suo
+*.idb
+sistema_academico_vscode/sistema_academico/
+Prova fundamentos 1/.vs/Prova1/v17/.suo
+prova 5/.vs/prova 5/v17/.suo
+prova 4/.vs/prova 4/v17/.suo
+prova 6/.vs/prova 6/v17/.suo
+prova 2/.vs/prova 2/v17/.suo
+prova 3/.vs/prova 3/v17/.suo
+*.check_cache
+*.c
+exame 3/cmake-build-debug/.ninja_log
+exame 3/cmake-build-debug/.ninja_deps
